@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juicysteak7
 - 👀 I’m interested in ...
 
-~Security~ O.O
+Security O.O
 Cryptography
 
 - 🌱 I’m currently learning ...
