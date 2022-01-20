@@ -3,6 +3,9 @@
 
   - Security O.O
   - Cryptography
+  - Robotics
+  - Machine Learning
+  - Embedded Systems
 
 - 🌱 I’m currently learning ...
 
