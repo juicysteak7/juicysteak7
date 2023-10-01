@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juicysteak7
+- 👋 I’m @juicysteak7
 - 👀 I’m interested in ...
 
   - Security O.O
@@ -7,14 +7,9 @@
   - Machine Learning
   - Embedded Systems
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently studying ...
 
   - Major of Computer Science at Portland State University
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-  - pjg2@pdx.edu
 
 <!---
 juicysteak7/juicysteak7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
